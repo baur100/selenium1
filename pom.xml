@@ -47,6 +47,13 @@
                     <excludes>
                         <exclude>TestNG3test.java</exclude>
                     </excludes>
+
+      <!--              <suiteXmlFiles>
+
+                        <suiteXmlFile>testng.xml</suiteXmlFile>
+
+                    </suiteXmlFiles>
+        -->
                 </configuration>
             </plugin>
         </plugins>
